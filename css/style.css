@@ -1165,6 +1165,7 @@ header .container .special-link:hover>div {
     display: block;
     background-color: var(--main-color);
     height: 100%;
+    transition: width .7s linear;
 }
 
 
